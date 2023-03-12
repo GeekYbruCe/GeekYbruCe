@@ -25,6 +25,7 @@
 <a href="https://twitter.com/bruce_ll7" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </a>
+<a href="https://misc-projects-group.slack.com/team/U04T3ACAWVD" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" height="30" style="vertical-align:top; margin:4px"></a>
 
   </body>
 </html>
