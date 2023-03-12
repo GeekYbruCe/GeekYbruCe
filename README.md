@@ -16,9 +16,10 @@
   <li>X-Frame Detector</li>
   <li>Network Scanner</li>
 </ul>
-
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Grid Snake">
   </head>
-  <body>
+   <h2> 🤝 Connect with me:</h2>
+  <body><a href="https://www.linkedin.com/in/solomon-lartey-6895771a8/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /
+ 
   </body>
 </html>
