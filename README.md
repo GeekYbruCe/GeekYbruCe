@@ -13,7 +13,7 @@
 <ul>
   <li>Keylogger with Email Capability</li>
   <li>SWipe (Disk Wiping Utility)</li>
-  <li>Active Directory Bulk User Creation</li>
+  <li>X-Frame Detector</li>
   <li>Network Scanner</li>
 </ul>
 
