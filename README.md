@@ -14,7 +14,7 @@
   <li>Keylogger with Email Capability</li>
   <li>SWipe (Disk Wiping Utility)</li>
   <li>X-Frame Detector</li>
-  <li>Network Scanner</li>
+  <li>Port Scanner</li>
 </ul>
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Grid Snake">
   </head>
